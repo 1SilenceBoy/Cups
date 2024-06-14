@@ -1,0 +1,7 @@
+{
+  "printer_uri": "http://192.168.50.188:631/printers/50_7",
+  "server_host": "192.168.50.188",
+  "watch_folder": "c:\\test",
+  "gs_path": "C:\\Program Files\\gs\\gs10.03.1\\bin\\gswin64c.exe",
+  "file_extension": ".ps"
+}
